@@ -33,7 +33,7 @@ _**Wᴇ Aʀᴇ Aᴠᴀɪʟᴀʙʟᴇ Oɴ Tᴇʟᴇɢʀᴀᴍ [𝐑𝐤𝐧 𝐃�
 
 
 # ☄ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs 
-<img src="https://skillicons.dev/icons?i=html,css,github,java,nodejs,python,javascript,heroku,git,r" />
+<img src="https://skillicons.dev/icons?i=html,css,github,java,nodejs,python,javascript,heroku, pyrogram, telethon, git,r" />
     
 <br/><br/>
 <hr/>
