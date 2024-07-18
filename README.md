@@ -1,4 +1,4 @@
-# Wᴇʟᴄᴏᴍᴇ ᴛᴏ RᴋɴDᴇᴠᴇʟᴏᴘᴇʀ's GɪᴛHᴜʙ Pʀᴏғɪʟᴇ 👋
+# Welcome To RknDeveloper's GitHub Profile Pʀᴏғɪʟᴇ 👋
 <p align="center">
   <a href="https://github.com/RknDeveloper/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=RknDeveloper&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" />
